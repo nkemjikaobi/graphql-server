@@ -1,0 +1,38 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "janedoe@gmail.com",
+      "age": 45
+    },
+    {
+      "id": "3",
+      "name": "Johnnnn Mceronroe",
+      "email": "mceronroe@ymail.com",
+      "age": 5
+    },
+    {
+      "id": "4",
+      "name": "Jemikalajah Phillip",
+      "email": "phillip@gmail.com",
+      "age": 345,
+      "args": {
+        "id": "4",
+        "age": 5
+      }
+    },
+    {
+      "id": "5",
+      "name": "Dave Omoreige",
+      "email": "daveomoreige@gmail.com",
+      "age": 245
+    }
+  ]
+}
